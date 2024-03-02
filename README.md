@@ -22,7 +22,7 @@ The Tesla Website Clone project aims to recreate the homepage of the Tesla websi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tesla-website-clone.git
+   git clone https://github.com/zavahmed/tesla-website-clone.git
 
 ## Usage
    * Click on the navigation links to scroll to different sections of the page.
